@@ -1,0 +1,47 @@
+﻿<Window x:Class="RiproduttoreMusicale.GestioneMetadata"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RiproduttoreMusicale"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        Title="GestioneMetadata" Height="400" Width="600">
+    <Border CornerRadius="15" BorderBrush="White" BorderThickness="5">
+        <Grid Background="White">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="325"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Image Name="Img_Album" Grid.Column="0" Grid.Row="0" Source="Images/default_cover.jpg" VerticalAlignment="Top" HorizontalAlignment="Left" MouseDown="Image_MouseDown"></Image>
+            <TextBlock Margin="5,0,0,0" HorizontalAlignment="Stretch" Grid.Column="1" FontSize="11" Grid.Row="0"><LineBreak/>Benvenuto!<LineBreak/> da qui potrai modificare i metadata della canzone selezionata!<LineBreak/>Per modificare l'immagine di copertina basta cliccarci sopra<LineBreak/>Per modificare il titolo o l'artista bisogna prima abilitarne <LineBreak/> la modifica tramite i checkbox <LineBreak/> [NB] Il titolo non è come la canzone è rinominata sul computer, <LineBreak/> ma è il metadata "titolo"</TextBlock>
+            <Grid Grid.ColumnSpan="2" Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition  Width="300"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Orientation="Vertical" Grid.Column="0">
+                    <Label Content="Titolo:" Height="30"></Label>
+                    <TextBox Name="TB_titolo" IsEnabled="False"></TextBox>
+                    <Label Content="Artista:" Height="30"></Label>
+                    <TextBox Name="TB_artista" IsEnabled="False"></TextBox>
+                </StackPanel>
+                <StackPanel Grid.Column="2">
+                    <CheckBox Name="CB_Titolo" Content="Clicca per abilitare la modifica del titiolo" Margin="0,30,0,0" Checked="CB_Checked" Unchecked="CB_Checked"></CheckBox>
+                    <CheckBox Name="CB_Artista" Content="Clicca per abilitare la modifica dell'artista" Margin="0,35,0,0" Checked="CB_Checked" Unchecked="CB_Checked"></CheckBox>
+                </StackPanel>
+            </Grid>
+            <StackPanel Grid.Column="1" Grid.Row="2" Orientation="Horizontal" >
+                <Button Content="Salva" Width="100" HorizontalAlignment="Right" Click="Salva_click" Margin="120,0,0,0"></Button>
+                <Button Margin="5,0,0,0" Content="Annulla" Width="100" HorizontalAlignment="Right" Click="Annulla_Click"></Button>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

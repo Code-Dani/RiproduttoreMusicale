@@ -1,0 +1,132 @@
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe.config
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.pdb
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csprojAssemblyReference.cache
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.g.cs
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\App.g.cs
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.cache
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.lref
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.baml
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.g.resources
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.Properties.Resources.resources
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.GenerateResource.cache
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.CoreCompileInputs.cache
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.pdb
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\taglib-sharp.dll
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.CopyComplete
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\Interop.WMPLib.dll
+C:\Users\satri\source\repos\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.ResolveComReference.cache
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe.config
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.pdb
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\taglib-sharp.dll
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csprojAssemblyReference.cache
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\Interop.WMPLib.dll
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.ResolveComReference.cache
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.g.cs
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\App.g.cs
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.cache
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.lref
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.baml
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.g.resources
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.Properties.Resources.resources
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.GenerateResource.cache
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.CopyComplete
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\Desktop\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.pdb
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csprojAssemblyReference.cache
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\Interop.WMPLib.dll
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.ResolveComReference.cache
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.g.cs
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\App.g.cs
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.cache
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.lref
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.pdb
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe.config
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.pdb
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\taglib-sharp.dll
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.baml
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.g.resources
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.Properties.Resources.resources
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.GenerateResource.cache
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.CopyComplete
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe.config
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.pdb
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\taglib-sharp.dll
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csprojAssemblyReference.cache
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\Interop.WMPLib.dll
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.ResolveComReference.cache
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.g.cs
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\App.g.cs
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.cache
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.lref
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.baml
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.g.resources
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.Properties.Resources.resources
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.GenerateResource.cache
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.CopyComplete
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.pdb
+C:\Users\satri\OneDrive\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.CoreCompileInputs.cache
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\GestioneMetadata.g.cs
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\GestioneMetadata.baml
+C:\Users\satri\Desktop\ProgettoInfo\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\App.baml
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe.config
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.pdb
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\taglib-sharp.dll
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csprojAssemblyReference.cache
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\Interop.WMPLib.dll
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.ResolveComReference.cache
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\GestioneMetadata.g.cs
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.g.cs
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\App.g.cs
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.cache
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.lref
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\App.baml
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\GestioneMetadata.baml
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.baml
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.g.resources
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.Properties.Resources.resources
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.GenerateResource.cache
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.CopyComplete
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.exe
+C:\Users\satri\Desktop\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.pdb
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe.config
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.exe
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\RiproduttoreMusicale.pdb
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.dll
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\taglib-sharp.dll
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\bin\Debug\policy.2.0.taglib-sharp.config
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csprojAssemblyReference.cache
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\Interop.WMPLib.dll
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.ResolveComReference.cache
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\GestioneMetadata.g.cs
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.g.cs
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\App.g.cs
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.cache
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale_MarkupCompile.lref
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\App.baml
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\GestioneMetadata.baml
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\MainWindow.baml
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.g.resources
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.Properties.Resources.resources
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.GenerateResource.cache
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.CoreCompileInputs.cache
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.csproj.CopyComplete
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.exe
+E:\Scuola\Progetti_WPF\Riproduttore Musicale\RiproduttoreMusicale\RiproduttoreMusicale\obj\Debug\RiproduttoreMusicale.pdb
